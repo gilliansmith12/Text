@@ -12,7 +12,7 @@ fullScreen(); //size(300,400); width height
 String[] fontList = PFont.list(); //To List All Fonts Available On System
 printArray(fontList); //For Listing All Possible Fonts To Choose From
 */
-titleFont = createFont ("Harrington", 55);
+titleFont = createFont ("Webdings", 55);
 //Tools / Create Font / Find Font / Do Not Press "OK", Known Bug
 
 //Populate Variables
